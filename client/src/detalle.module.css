@@ -1,0 +1,41 @@
+.bodyhome{
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+.volver{
+    text-decoration: none;
+    color: black;
+    margin-top: 2rem;
+    width: 100%;
+    text-align: start;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+}
+.titulo{
+    width: 100%;
+    text-align: center;
+    font-size: 2vw;
+}
+.contenedor{
+    width: 100%;
+    background: #f3d274de;
+}
+.imgdatos{
+    flex-wrap: wrap;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.datos{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.tipos{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+
+}
